@@ -19,7 +19,10 @@ body{
     background-color: rgb(0, 255, 76);
     display: block;
     width: 30%;
-    margin:auto;  
+    margin:auto;
+    background: url("../dicasiniciaispxg/img/np.png") no-repeat 75% 0;
+    background-size: 16px 16px;
+    padding-right: 19px;  
 
 }
 .pagina2{
@@ -28,4 +31,7 @@ body{
     display: block;
     width: 30%;
     margin:auto;
+    background: url("../dicasiniciaispxg/img/np.png") no-repeat 75% 0;
+    background-size: 16px 16px;
+    padding-right: 19px;
 }  
